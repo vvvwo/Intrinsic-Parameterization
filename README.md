@@ -7,9 +7,9 @@ This project is used to implement the intrinisc parameterization for 3D faialc s
 
 The project is based on the two papers: 
 
-**[1] Desbrun *et al.*** Intrinsic parameterizations of surface meshes, 2002.
+**[1] Desbrun *et al.*** <a href="https://www.researchgate.net/profile/Mohamed-Mourad-Lafifi/post/I_want_to_perform_Least_Square_Conformal_Parametrization_on_a_3D_mesh_what_are_the_tools_that_i_can_use_to_do_this/attachment/59d63eaf79197b807799b41a/AS%3A424797202063365%401478290954021/download/Intrinsic+Parameterizations+of+Surface+Meshes.pdf)" target="_blank">Intrinsic parameterizations of surface meshes</a>, 2002.
 
-**[2] Lv *et al.*** Constructing 3D facial hierarchical structure based on surface measurements, 2019. 
+**[2] Lv *et al.*** <a href="https://aliexken.github.io/papers/2018%20Constructing3DFacialHierarchic.pdf" target="_blank">Constructing 3D facial hierarchical structure based on surface measurements</a>, 2019. 
 
 It extracts the geodesic-based subsurface from the 3D facial surface and constructs the 2D parameterization. In this repository, we release code and executable file.
 
