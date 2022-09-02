@@ -15,26 +15,24 @@ In this repository, we release code and data for training a PointNet classificat
 ### Citation
 If you find our work useful in your research, please consider citing:
 
-  @article{lv2019constructing,
-     title={Constructing 3D facial hierarchical structure based on surface measurements},
-     author={Lv, Chenlei and Wu, Zhongke and Wang, Xingce and Zhou, Mingquan},
-     journal={Multimedia Tools and Applications},
-     volume={78},
-     number={11},
-     pages={14753--14776},
-     year={2019},
-     publisher={Springer}
-  }
+     @article{lv2019constructing,
+        title={Constructing 3D facial hierarchical structure based on surface measurements},
+        author={Lv, Chenlei and Wu, Zhongke and Wang, Xingce and Zhou, Mingquan},
+        journal={Multimedia Tools and Applications},
+        volume={78},
+        number={11},
+        pages={14753--14776},
+        year={2019},
+        publisher={Springer}
+     }
   
-  @inproceedings{desbrun2002intrinsic,
-     title={Intrinsic parameterizations of surface meshes},
-     author={Desbrun, Mathieu and Meyer, Mark and Alliez, Pierre},
-     booktitle={Computer graphics forum},
-     volume={21},
-     number={3},
-     pages={209--218},
-     year={2002},
-     organization={Wiley Online Library}
-  }
-   
-
+     @inproceedings{desbrun2002intrinsic,
+        title={Intrinsic parameterizations of surface meshes},
+        author={Desbrun, Mathieu and Meyer, Mark and Alliez, Pierre},
+        booktitle={Computer graphics forum},
+        volume={21},
+        number={3},
+        pages={209--218},
+        year={2002},
+        organization={Wiley Online Library}
+     }
