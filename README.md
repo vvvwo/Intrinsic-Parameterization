@@ -33,7 +33,7 @@ Intri_Parameter.exe Data\pjanic.ply 18504 1.2
 ```
 Parameters: 1) path of the model; 2) specified middle point for the 3D face; 3) eyebrow point to define the direction (it can be ignored); 4) geodesic searching radius.
 
-![isoFace](https://user-images.githubusercontent.com/65271555/188069029-639215d0-e923-42bd-9373-e4cc1ff8198f.jpg)
+![para2](https://user-images.githubusercontent.com/65271555/188072256-8793b42e-a0c5-4e96-aab4-6ae982ce2994.jpg)
 
 ### Citation
 If you find our work useful in your research, please consider citing:
