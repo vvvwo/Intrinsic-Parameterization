@@ -1,10 +1,10 @@
-# Intrinsic-Parameterization for 3D Surface
-This project is used to implement the intrinisc parameterization for 3D surface.
+# Intrinsic-Parameterization for 3D Facial Surface
+This project is used to implement the intrinisc parameterization for 3D faialc surface.
 
 ![para](https://user-images.githubusercontent.com/65271555/188065294-2cfc5f91-a2e3-4b86-9a88-0a521b378045.jpg)
 
 ### Introduction
-This project is based on two papers: 
+The project is based on two papers: Constructing 3D facial hierarchical structure based on surface measurements and Intrinsic parameterizations of surface meshes.
 
 our [arXiv tech report](https://arxiv.org/abs/1612.00593), which is going to appear in CVPR 2017. We proposed a novel deep net architecture for point clouds (as unordered point sets). You can also check our [project webpage](http://stanford.edu/~rqi/pointnet) for a deeper introduction.
 
