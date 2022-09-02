@@ -4,7 +4,9 @@ This project is used to implement the intrinisc parameterization for 3D faialc s
 ![para](https://user-images.githubusercontent.com/65271555/188065294-2cfc5f91-a2e3-4b86-9a88-0a521b378045.jpg)
 
 ### Introduction
+<div style="text-align:justify;text-justify:inter-ideograph">
 The project is based on the two papers: **Lv *et al.*** Constructing 3D facial hierarchical structure based on surface measurements; **Desbrun *et al.*** Intrinsic parameterizations of surface meshes. It extracts the geodesic-based subsurface from the 3D facial surface and constructs the 2D parameterization. In this repository, we release code and executable file.
+ </div>
 
 ### Citation
 If you find our work useful in your research, please consider citing:
