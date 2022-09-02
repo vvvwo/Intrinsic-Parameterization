@@ -4,9 +4,8 @@ This project is used to implement the intrinisc parameterization for 3D faialc s
 ![para](https://user-images.githubusercontent.com/65271555/188065294-2cfc5f91-a2e3-4b86-9a88-0a521b378045.jpg)
 
 ### Introduction
-<div style="text-align:justify;text-justify:inter-ideograph">
+
 The project is based on the two papers: Constructing 3D facial hierarchical structure based on surface measurements and Intrinsic parameterizations of surface meshes. It extracts the geodesic-based subsurface from the 3D facial surface and constructs the 2D parameterization. In this repository, we release code and executable file.
-</div>
 
 ### Installation
 
@@ -22,9 +21,13 @@ sudo pip install h5py
 
 ### Usage
 You can run the .exe to generate geodesic-based subsurface and parameterization result.
+```bash
+Intri_Parameter.exe Data\pjanic.ply 18504 4858 1.2
+Intri_Parameter.exe Data\pjanic.ply 18504 1.2
+```
+Parameters: 1) path of the model; 2) specified middle point for the 3D face; 3) eyebrow point to define the direction (it can be ignored); 4) geodesic searching radius.
 
-    
-
+![isoFace](https://user-images.githubusercontent.com/65271555/188069029-639215d0-e923-42bd-9373-e4cc1ff8198f.jpg)
 
 ### Citation
 If you find our work useful in your research, please consider citing:
