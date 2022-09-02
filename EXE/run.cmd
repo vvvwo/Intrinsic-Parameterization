@@ -1,0 +1,1 @@
+Intri_Parameter.exe Data\pjanic.ply 18504 1.2
