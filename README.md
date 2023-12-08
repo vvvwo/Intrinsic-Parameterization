@@ -1,5 +1,5 @@
 # Intrinsic Parameterization for 3D Facial Surface
-This project is used to implement the intrinisc parameterization for 3D faialc surface.
+This project is used to implement the intrinisc parameterization for 3D facial surface.
 
 ![para](https://user-images.githubusercontent.com/65271555/188065294-2cfc5f91-a2e3-4b86-9a88-0a521b378045.jpg)
 
